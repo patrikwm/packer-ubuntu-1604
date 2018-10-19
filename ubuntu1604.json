@@ -96,7 +96,7 @@
       },
       {
         "type": "vagrant-cloud",
-        "box_tag": "geerlingguy/ubuntu1604",
+        "box_tag": "patrikwm/ubuntu1604",
         "version": "{{user `version`}}"
       }
     ]
